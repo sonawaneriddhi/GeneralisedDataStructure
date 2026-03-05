@@ -267,7 +267,12 @@ All implementations are written in **pure C++ without using STL containers**.
 
 ---
 
-# How to Compile
+# How to Compile and Run
 
 ```bash
-g++ program.cpp
+//Compile
+g++ datastructures.cpp -o Myexe
+
+//Run
+./Myexe (for Linux distro or Mac)
+Myexe.exe (for Windows)
